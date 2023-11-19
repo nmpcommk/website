@@ -1,0 +1,54 @@
+body 
+{
+background-color: black;
+margin: 0px;
+padding: 0px;
+font-family: Arial,Helvetica,sans-serif; 
+font-size: 75%
+}
+
+td.thumbs /* za iminjata na thumbnails */
+{
+background-color: #999999;
+text-align:right;
+margin-right: 5px;
+font-size: 65%;
+color: #FFFFFF;
+}
+
+/* imeavtor - galerii strani */
+a:link    {color:#000000; text-decoration: none;} 
+a:visited {color: #0000FF; text-decoration: none;}
+a:hover    {color:#ff0000; text-decoration: none;}
+a:active    {color:#ff0000; text-decoration: none;}
+
+.avtori
+{
+text-align: left;
+margin-left: 10px;
+font-size: 75%;
+}
+
+.ime /* ime slika */ 
+{
+color: white;
+text-align: left;
+margin-left: 5px;
+font-size: 85%;
+}
+
+p.tl2 /* galerii strani */
+{
+color: #FFFFFF;
+text-align: justify; 
+margin-left: 10px;
+margin-right: 10px;
+font-size: 75%;
+}
+
+img
+{ border: 0; }
+.bord
+{
+border: 1px solid #000
+}
