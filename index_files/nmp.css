@@ -1,0 +1,123 @@
+/*<link rel="stylesheet" type="text/css" href="nmp.css">*/
+
+body 
+{
+background-color: black;
+margin: 0px;
+padding: 0px;
+font-family: Arial,Helvetica,sans-serif; 
+font-size: 75%
+font-style: /* normal italic oblique */
+}
+
+.b {background-color: #003cb8; color: #FFFFFF}
+.r {background-color: #980000; color: #FFFFFF}
+.g {background-color: #009819; color: #FFFFFF}
+.y {background-color: #FFFF00}
+
+a:link {COLOR: yellow;}
+a:visited {COLOR: orange;}
+a:active {COLOR: navy;}
+a:hover {COLOR: navy;}
+
+	/*da se proveri*/
+td 
+{
+text-align: center; 
+valign: middle
+}
+	/*da se proveri*/
+
+.tl /* tekst in the left box */
+{
+text-align: justify; 
+margin-left: 15px;
+margin-right: 15px;
+font-size: 75%;
+}
+
+
+p.tl2 /* tekst in the left box - manifesto*/
+{
+color: #FFFFFF;
+text-align: justify; 
+margin-left: 10px;
+margin-right: 10px;
+font-size: 75%;
+}
+
+p.tl3 /* tekst -avtori strani*/
+{
+color: #FFFFFF;
+text-align: center; 
+margin-left: 5px;
+margin-right: 5px;
+font-size: 75%;
+}
+
+.linx
+{
+text-align: left; 
+margin-left: 10;
+font-size: 75%;
+}
+
+.linx2 /* linkovi strana april 2005 */
+{
+text-align: center; 
+font-size: 75%;
+}
+
+.p 
+{
+text-align: justify; 
+margin-left: 15px;
+margin-right: 15px;
+font-size: 65%;
+color: #FFFFFF;
+}
+
+.astr /* avtori strani 25mart2005 */
+{
+valign: middle;
+color: #FFFFFF;
+text-align: center;
+margin-left: 5px;
+font-size: 75%;
+}
+
+img
+{
+border: 0;
+}
+
+.ifr { frameborder: 0; scrolling: 0; marginwidth: 0; marginheight: 0;}
+
+/* frameborder="0" width="357" height="158" scrolling="no" */
+
+/* scrollbar color
+    .TA {scrollbar-3dlight-color:;
+           scrollbar-arrow-color:;
+           scrollbar-base-color:;
+           scrollbar-darkshadow-color:;
+           scrollbar-face-color:;
+           scrollbar-highlight-color:;
+           scrollbar-shadow-color:}
+*/
+
+/*
+<style type="text/css">
+body {
+	scrollbar-arrow-color: CCCC99;
+	scrollbar-base-color: black;
+	scrollbar-dark-shadow-color: 000000;
+	scrollbar-track-color: black;
+	scrollbar-face-color: 000000;
+	scrollbar-shadow-color: CCCC99;
+	scrollbar-highlight-color: CCCC99;
+	scrollbar-3d-light-color: black;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+</style>*/
+
