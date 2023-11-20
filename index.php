@@ -8,7 +8,7 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
 
-<meta name="description" content="НМП е акција сама по себе, движење кон ѕид без ниедна кочница на тркалата">
+<meta name="description" content="РќРњРџ Рµ Р°РєС†РёСР° СЃР°РјР° РїРѕ СЃРµР±Рµ, РґРІРёР¶РµСљРµ РєРѕРЅ С•РёРґ Р±РµР· РЅРёРµРґРЅР° РєРѕС‡РЅРёС†Р° РЅР° С‚СЂРєР°Р»Р°С‚Р°">
 
     <meta name="KEYWORDS" content="nmp, digital, art, digitalna, umetnost, skopje, makedonija, macedonia, galerii, galleries, mudri jarci, deca od guma, doppelganger, dopelganger, flavrsavr, serdarot, online art">
 
